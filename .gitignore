@@ -1,1 +1,24 @@
+# Power BI temporary and cache files
+*.pbi_cache
+.pbi/
+*.pbix.tmp
+*.tmp
+*.bak
+~$*
 
+# Power BI project local settings
+.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Raw data (download from Kaggle, see data/README.md)
+data/raw/
+*.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
