@@ -49,17 +49,15 @@ An interactive, three-page Power BI report analyzing sales, products, sellers, c
 ### 1. Overview
 Revenue, orders, average order value, customers, review score and on-time delivery at a glance, with revenue trend by month and year, revenue by payment type, top 10 categories, a revenue map by state and a regional summary table.
 
-![Overview](images/dashboard_overview.png)
-
 ### 2. Products & Sellers
 Active sellers, average item price and items per order, plus a category treemap, a price-versus-volume scatter plot, a top-10 sellers table (with revenue share and rank), revenue by price band and freight share by weight class.
 
-![Products and Sellers](images/dashboard_sales.png)
+![Products and Sellers](images/2.dashboard_sales.png)
 
 ### 3. Customers & Delivery
 Repeat customer rate, on-time delivery, delivery days and positive review share, with an orders heatmap by weekday and hour, average review by delivery status, orders by maximum installments, and a state-level bubble chart of orders, review score and revenue.
 
-![Customers and Delivery](images/dashboard_customers.png)
+![Customers and Delivery](images/3.dashboard_customers.png)
 
 ### Interactivity
 - Page navigation buttons (Overview, Products & Sellers, Customers & Delivery)
@@ -162,4 +160,4 @@ olist-ecommerce-powerbi-analysis/
 
 **Giorgi Lagvilava**
 Junior Data Analyst | SQL · Power BI · Excel
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Email](mailto:YOUR-EMAIL@example.com)
+[LinkedIn](https://www.linkedin.com/in/giorgi-lagvilava-21102b358) · [Email](mailto:giorgilagvilava2022@gmail.com)
