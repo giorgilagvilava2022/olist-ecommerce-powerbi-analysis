@@ -2,7 +2,7 @@
 
 An interactive, three-page Power BI report analyzing sales, products, sellers, customers and delivery performance of the Brazilian marketplace **Olist** (January 2016 – December 2018). The report is built on a star-schema data model and answers key business questions about revenue, seller concentration, customer behavior and the impact of delivery on customer satisfaction.
 
-![Dashboard overview](images/dashboard_overview.png)
+![Dashboard overview](images/1.dashboard_overview.png)
 
 ---
 
