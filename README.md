@@ -159,5 +159,5 @@ olist-ecommerce-powerbi-analysis/
 ## Author
 
 **Giorgi Lagvilava**
-Junior Data Analyst | SQL · Power BI · Excel
+Junior Data Analyst | Power BI
 [LinkedIn](https://www.linkedin.com/in/giorgi-lagvilava-21102b358) · [Email](mailto:giorgilagvilava2022@gmail.com)
