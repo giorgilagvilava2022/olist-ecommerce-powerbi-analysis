@@ -2,7 +2,7 @@
 
 An interactive, three-page Power BI report analyzing sales, products, sellers, customers and delivery performance of the Brazilian marketplace Olist (September 2016 – August 2018). The report is built on a star-schema data model and answers key business questions about revenue, seller concentration, customer behavior and the impact of delivery on customer satisfaction.
 
-![Dashboard overview](images/dashboard_overview.png)
+![Dashboard overview](images/1.dashboard_overview.png)
 
 ## Headline Numbers
 
@@ -47,13 +47,13 @@ Revenue, orders, average order value, customers, review score and on-time delive
 
 Active sellers, average item price and items per order, plus a category treemap, a price-versus-volume scatter plot, a top-5 sellers table (revenue, orders, average review score and on-time delivery %), revenue by price band and freight share by weight class.
 
-![Products and Sellers](images/dashboard_sales.png)
+![Products and Sellers](images/2.dashboard_sales.png)
 
 ### 3. Customers & Delivery
 
 Unique customers, repeat customer rate, on-time delivery, delivery days, average review score and positive review share, with an orders heatmap by weekday and hour, average review by delivery status, orders by maximum installments, and a state-level bubble chart of orders, review score and revenue.
 
-![Customers and Delivery](images/dashboard_customers.png)
+![Customers and Delivery](images/3.dashboard_customers.png)
 
 ## Interactivity
 
