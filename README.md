@@ -52,7 +52,7 @@ Revenue, orders, average order value, customers, review score and on-time delive
 ### 2. Products & Sellers
 Active sellers, average item price and items per order, plus a category treemap, a price-versus-volume scatter plot, a top-10 sellers table (with revenue share and rank), revenue by price band and freight share by weight class.
 
-![Products and Sellers](images/2.dashboard_products_and_sellers.png)
+![Products and Sellers](images/2.dashboard_sales.png)
 
 ### 3. Customers & Delivery
 Repeat customer rate, on-time delivery, delivery days and positive review share, with an orders heatmap by weekday and hour, average review by delivery status, orders by maximum installments, and a state-level bubble chart of orders, review score and revenue.
